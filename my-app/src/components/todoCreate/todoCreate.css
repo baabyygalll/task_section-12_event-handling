@@ -1,0 +1,31 @@
+.formtodo {
+   text-align: center;
+   margin-left: 15rem;
+   width: fit-content;
+   border-radius: 30px;
+   box-shadow: 2px 2px 10px 3px #c2bfbf;
+   padding: 1rem;
+   margin-bottom: 3rem;
+
+    
+}
+
+ 
+.input{
+    width: 350px;
+    border: none;
+}
+
+
+
+
+input::placeholder {
+font-weight: bold;
+text-align: left;
+
+}
+
+button {
+    font-weight: bold;
+}
+
